@@ -1,2 +1,3 @@
 Hello git
 append MIT
+append Three
